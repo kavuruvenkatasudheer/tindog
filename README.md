@@ -1,2 +1,0 @@
-# tindog
-Bootstrap example
